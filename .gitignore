@@ -1,0 +1,9 @@
+*.bin
+*.elf
+*.obj
+*.a
+*.out
+*.map
+build/bootloader/.ninja_log
+*.ninja
+*.ninja_log
